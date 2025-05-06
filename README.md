@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Geovanna Belem
 
-- 🌱 Estudando Csharp
+- 🌱 Estudando Power BI
 - 😄 Pronouns: ela/dela
 <div>
     <a href="https://github.com/GeovannaBelem">
