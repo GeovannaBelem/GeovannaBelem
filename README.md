@@ -6,7 +6,7 @@
 - 📊 Estudando Power BI
 - 😄 Pronomes: ela/dela
 
-<a href="https://drive.google.com/file/d/1KNJBe_f0F0guDlOd8liy5u9-SOgw1LPU/view?usp=sharing">🔗 Meu currículo completo (PDF)</a>
+<a href="https://drive.google.com/file/d/1KNJBe_f0F0guDlOd8liy5u9-SOgw1LPU/view?usp=sharing" target="_blank">🔗 Meu currículo completo (PDF)</a>
 
 <div> <a href="https://github.com/GeovannaBelem"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovannaBelem&show_icons=true&theme=radical"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaBelem&layout=compact&theme=radical"> </a> </div>
 <br>
