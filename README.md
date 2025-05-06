@@ -1,13 +1,12 @@
-Olá! Eu sou a Geovanna Belem 🌱
-🎓 Estudante de Engenharia de Software na Universidade Católica do Salvador (UCSal)
+## Olá! Eu sou a Geovanna Belem 🌱
 
+🎓 Estudante de Engenharia de Software na Universidade Católica do Salvador (UCSal)
 💻 Técnica em Desenvolvimento de Sistemas pelo Senai Cimatec
 
-📊 Estudando Power BI
+- 📊 Estudando Power BI
+- 😄 Pronomes: ela/dela
 
 🔗 Meu currículo completo (PDF)
-
-😄 Pronomes: ela/dela
 
 <div> <a href="https://github.com/GeovannaBelem"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovannaBelem&show_icons=true&theme=radical"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaBelem&layout=compact&theme=radical"> </a> </div>
 🚀 Tecnologias e Ferramentas:
