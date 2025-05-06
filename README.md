@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Geovanna Belem 🌱
 
-🎓 Estudante de Engenharia de Software na Universidade Católica do Salvador (UCSal)
+🎓 Estudante de Engenharia de Software na Universidade Católica do Salvador (UCSal) <br>
 💻 Técnica em Desenvolvimento de Sistemas pelo Senai Cimatec
 
 - 📊 Estudando Power BI
