@@ -8,7 +8,7 @@
 
 <a href="https://drive.google.com/file/d/1KNJBe_f0F0guDlOd8liy5u9-SOgw1LPU/view?usp=sharing" target="_blank">🔗 Meu currículo completo (PDF)</a>
 
-<div> <a href="https://github.com/GeovannaBelem"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovannaBelem&show_icons=true&theme=radical"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaBelem&layout=compact&theme=radical"> </a> </div>
+
 <br>
 <strong>🚀 Tecnologias e Ferramentas:</strong>
 <div style="display: inline_block"><br> <img align="center" alt="Geo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Geo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Geo-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img align="center" alt="Geo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Geo-Android" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> <img align="center" alt="Geo-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> <img align="center" alt="Geo-Overleaf" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"> </div>
