@@ -6,7 +6,7 @@
 - 📊 Estudando Power BI
 - 😄 Pronomes: ela/dela
 
-<a href="https://drive.google.com/file/d/1KNJBe_f0F0guDlOd8liy5u9-SOgw1LPU/view?usp=drive_link" target="_blank">🔗 Meu currículo completo (PDF)</a>
+<a href="https://drive.google.com/file/d/1Nt9AqR2BTnYptv2EHUYFS-WxjMTbUhb8/view?usp=sharing" target="_blank">🔗 Meu currículo completo (PDF)</a>
 
 
 <br>
